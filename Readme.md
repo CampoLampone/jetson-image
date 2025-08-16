@@ -1,5 +1,10 @@
 # Nvidia Jetson Minimalist Images
 
+
+# DONT USE THIS FORK
+# ITS VERY MESS HERE USE ORIGINAL ONE
+
+
 [![Discord][discord-badge]][chat-url]
 
 [discord-badge]: https://img.shields.io/badge/Discord-chat-5865F2?style=for-the-badge&logo=discord
