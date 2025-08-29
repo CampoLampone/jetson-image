@@ -6,9 +6,6 @@
 
 
 # Jetson nano useful stuff:
-## Image Creation
- - [jetson-image](https://github.com/pythops/jetson-image)
-- [muj mess fork](https://github.com/CampoLampone/jetson-image)
 ## User Space
 - [Pytorch](https://qengineering.eu/install-pytorch-on-jetson-nano.html)
 - [OpenCV for py38](https://jetson-docs.com/libraries/opencv/l4t35.4.1/py3.8.10)
