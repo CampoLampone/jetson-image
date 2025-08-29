@@ -5,6 +5,22 @@
 # ITS VERY MESS HERE USE ORIGINAL ONE
 
 
+# Jetson nano useful stuff:
+## Image Creation
+ - [jetson-image](https://github.com/pythops/jetson-image)
+- [muj mess fork](https://github.com/CampoLampone/jetson-image)
+## User Space
+- [Pytorch](https://qengineering.eu/install-pytorch-on-jetson-nano.html)
+- [OpenCV for py38](https://jetson-docs.com/libraries/opencv/l4t35.4.1/py3.8.10)
+- [Auto Fan control](https://github.com/Pyrestone/jetson-fan-ctl)
+## Kernel build
+- [Tutorial](https://developer.ridgerun.com/wiki/index.php/Jetson_Nano/Development/Building_the_Kernel_from_Source)
+- [Fix for building kernel](https://forums.developer.nvidia.com/t/failed-to-make-l4t-kernel-dts/116399/7)
+
+
+
+
+
 [![Discord][discord-badge]][chat-url]
 
 [discord-badge]: https://img.shields.io/badge/Discord-chat-5865F2?style=for-the-badge&logo=discord
